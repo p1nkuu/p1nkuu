@@ -27,8 +27,6 @@ Currently, I'm working on a content-based retrieval image project supervised by 
 - **Tools:** Python, Scikit-learn, Numpy, Albumentations, FAISS, Jupyter 
 - **What we did:** Our team evaluated the ability of the PLIP, UNI, and Flava to return similar images given a list of image matches provided by a pathologist 
 
-You can see the full project [here](https://github.com/p1nkuu/CBIR-Image)!
-
 ## 🛠 Tech Stack
 **Languages:** Python, Java, R, SAS, TypeScript, JavaScript, C \
 **Libraries:** Numpy, Pandas, Scikit-learn, Matplotlib \
