@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Third year CS & Chemistry student at UMass Amherst \
-🔭 Aspiring Data Scientist
-
-My interests lie primarily in the applications of data science and machine learning to bioinformatics and public health. I like to think of myself as a lifelong learner and am passionate about using my skills to make an impact in healthcare.
+I'm a third year CS & Chemistry student at UMass Amherst. My interests lie primarily in the applications of data science and machine learning to bioinformatics and public health. I like to think of myself as a lifelong learner and am passionate about using my skills to make an impact in healthcare.
 
 Ask me about: 
 - 🧬 my statistical genetics research at Boston University 
