@@ -26,7 +26,7 @@ Ask me about:
 - 🍵 my favorite cafes to get matcha at!
 
 ## 📸 Featured Project
-Currently, I'm working on a content-based retrieval image project supervised by Novartis in collaboration with the Break Through Tech AI evaluating the performance of different models' ability to return similar images from a histopathological image database given a query image. \
+Currently, I'm working on a content-based retrieval image project supervised by Novartis in collaboration with the Break Through Tech AI evaluating the performance of different models' ability to return similar images from a histopathological image database given a query image. 
 - **Tools:** Python, Scikit-learn, Numpy, Albumentations, FAISS, Jupyter 
 - **What we did:** Our team evaluated the ability of the PLIP, UNI, and Flava to return similar images given a list of image matches provided by a pathologist 
 
