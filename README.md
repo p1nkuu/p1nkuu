@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm a third year CS & Chemistry student at UMass Amherst with interests in the applications of data science and machine learning to bioinformatics and public health. I like to think of myself as a lifelong learner and am passionate about using my skills to make an impact in healthcare.
 
 ## Featured Project
-Currently, I'm working on a content-based retrieval image project supervised by Novartis in collaboration with the Break Through Tech AI evaluating the performance of different models' ability to return similar images from a histopathological image database given a query image. 
-- **Tools:** Python, Scikit-learn, Numpy, Albumentations, FAISS, Jupyter
-- **What we did:** Our team evaluated the ability of the PLIP, UNI, and Flava to return similar images given a list of image matches provided by a pathologist
+Currently, I'm working on a content-based retrieval image project supervised by Novartis in collaboration with the Break Through Tech AI evaluating the performance of different models' ability to return similar images from a histopathological image database given a query image. \\
+- **Tools:** Python, Scikit-learn, Numpy, Albumentations, FAISS, Jupyter \\
+- **What we did:** Our team evaluated the ability of the PLIP, UNI, and Flava to return similar images given a list of image matches provided by a pathologist \\
 You can see the full project [here](https://github.com/p1nkuu/CBIR-Image)!
 
 ## Tech Stack
