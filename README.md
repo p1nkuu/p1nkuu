@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a third year CS & Chemistry student at UMass Amherst. My interests lie primarily in the applications of data science and machine learning to bioinformatics and public health. I like to think of myself as a lifelong learner and am passionate about using my skills to make an impact in healthcare.
+I'm a third year CS & Chemistry student at UMass Amherst. My interests lie primarily in the applications of data science and machine learning to bioinformatics and public health. I like to think of myself as a lifelong learner and am passionate about using my skills to make an impact in healthcare. Next semester, I'll be interning at Zlab as a computational biology intern!
 
 Ask me about: 
 - 🧬 my statistical genetics research at Boston University 
 - 💻 my computer vision work in content-based retrieval for images under Novartis
+- 🗽 my software engineering internship at Liberty Mutual
 - 🍵 my favorite cafes to get matcha at!
-
-## 📸 Featured Project
-Currently, I'm working on a content-based retrieval image project supervised by Novartis in collaboration with the Break Through Tech AI evaluating the performance of different models' ability to return similar images from a histopathological image database given a query image. 
-- **Tools:** Python, Scikit-learn, Numpy, Albumentations, FAISS, Jupyter 
-- **What we did:** Our team evaluated the ability of the PLIP, UNI, and Flava to return similar images given a list of image matches provided by a pathologist 
 
 ## 🛠 Tech Stack
 **Languages:** Python, Java, R, SAS, TypeScript, JavaScript, C \
